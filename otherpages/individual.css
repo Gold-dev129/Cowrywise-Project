@@ -104,3 +104,13 @@ margin-top: 20px;
     justify-content: space-between;
 }
 
+@media(max-width : 841px){
+    .info{
+        display: none;
+    }
+}
+@media(max-width: 633px){
+    .input1{
+        padding: 18px 120px;
+    }
+}
